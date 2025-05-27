@@ -1,0 +1,6 @@
+Portal_1 = "Blue"
+Portal_2 = "Orange"
+
+if Portal_1 == "Blue" or Portal_2 == "Orange":
+    print("Portal color is")
+
